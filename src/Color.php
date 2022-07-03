@@ -7,17 +7,12 @@ class Color
     // Text Formating
     const NORMAL = 0;
     const BOLD = 1;
-    const UN_BOLD = 21;
     const DIM = 2;
-    const UN_DIM = 22;
-    const UNDERLINED = 4;
-    const UN_UNDERLINED = 24;
+    const UNDERLINE = 4;
     const BLINK = 5;
-    const UN_BLINK = 25;
     const REVERSE = 7;
-    const UN_REVERSE = 27;
     const HIDDEN = 8;
-    const UN_HIDDEN = 28;
+
     // Foreground
     const BLACK = 30;
     const DARK_GRAY = [1, 30];
