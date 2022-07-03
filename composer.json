@@ -1,0 +1,28 @@
+{
+    "name": "unknownrori/cli-color",
+    "description": "A simple wrapper of php echo with color",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UnknownRori\\CLIColor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UnknownRori",
+            "email": "68576836+UnknownRori@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 7.4"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        },
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
