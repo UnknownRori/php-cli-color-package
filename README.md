@@ -4,7 +4,7 @@ A simple wrapper colorizer library on php echo
 
 ## 🚀 Installation
 
-`composer unknownrori/cli-color`
+`composer require unknownrori/cli-color`
 
 ### 📓 Usage
 
